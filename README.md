@@ -15,3 +15,26 @@ Líder Funcional: Es un despacho de abogados que quiere automatizar las demandas
 # ANALISIS DE REQUISITOS Y REQUERIMIENTOS
 
 ![ModelamientodeNegocio](https://github.com/MiguelEscareno/Frontend-PrimeraMision/blob/main/ModelamientodeNegocio.drawio.png)
+
+>Requisitos Tecnicos:
+
+Tipo de desarrollo:
+
+  -Web
+  
+  -Movil
+  
+Base de datos:
+
+  -MySQL
+  
+Lenguage:
+
+  -JavaScript
+  
+  -HTML
+  
+  -CSS
+  
+# BUYER PERSONA
+
