@@ -14,4 +14,4 @@ Líder Funcional: Es un despacho de abogados que quiere automatizar las demandas
 
 # ANALISIS DE REQUISITOS Y REQUERIMIENTOS
 
-![ModelamientodeNegocio](https://github.com/GriseldaGarciaE/FrontEnd-Mision/blob/f308f8286dc706ccff2cf4554d44248c0e9d8cf4/images/Modelamiento%20de%20Negocio.jpg)
+![ModelamientodeNegocio](https://github.com/MiguelEscareno/Frontend-PrimeraMision/blob/main/ModelamientodeNegocio.drawio.png)
