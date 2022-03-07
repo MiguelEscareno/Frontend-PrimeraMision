@@ -42,4 +42,4 @@ Lenguage:
 
 # Publico Objetivo
 
-
+![ModelamientodeNegocio](https://github.com/MiguelEscareno/Frontend-PrimeraMision/blob/main/Publico%20Objetivo%20(2).png)
