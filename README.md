@@ -39,3 +39,7 @@ Lenguage:
 # BUYER PERSONA
 
 ![ModelamientodeNegocio](https://github.com/MiguelEscareno/Frontend-PrimeraMision/blob/main/Buyer-Persona.png)
+
+# Publico Objetivo
+
+
